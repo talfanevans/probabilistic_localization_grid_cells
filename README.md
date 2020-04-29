@@ -1,4 +1,4 @@
-# Probbailistic localization by rodent grid cells
+# Probabilistic localization by rodent grid cells
 
 1D recursive Bayesian integration of sensory inputs (mediated by place cells) and self-motion inputs (mediated by grid cells).
 
